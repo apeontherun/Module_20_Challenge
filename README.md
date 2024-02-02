@@ -1,7 +1,7 @@
 # Module_20_Challenge
 Module 20 Challenge for RICE FinTech Assignment
 ---
-### Listed below are screenshots from Remix.
+### Listed below are screenshots from Remix Module 20 assignment.
 ---
 ![Screenshot 2024-02-01 220712 Module 19 1](https://github.com/apeontherun/Module_20_Challenge/assets/28538519/0f2d0532-af5d-42da-aba7-98e2415b65ef)
 
